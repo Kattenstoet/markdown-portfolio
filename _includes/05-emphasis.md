@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Current Skills: **CSS, HTML, JavaScript**; **Art & Writing**
+Learning: *Python, Ruby, Ruby on Rails*
